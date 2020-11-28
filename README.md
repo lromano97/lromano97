@@ -2,7 +2,10 @@
 
 I work as a Software Engineer pursuing a master degree as Data Scientist 📚. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices, mobile and ETL development 👨‍💻.
 
-
+<!--
+<img align="right" height="250" width="375" alt="" src="https://media1.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
+ -->
+ 
 ### About me
 - 🛠 I'm currently working with Node.js, Typescript, Express, MongoDB and React Native
 - 🚀 I'm currently learning about data science and improving my Node.js and Typescript skills
