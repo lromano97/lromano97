@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lromano97/lromano97/main/banner-lromano97.gif" alt="Banner lromano97" title=""/>
+<!-- <img src="https://raw.githubusercontent.com/lromano97/lromano97/main/banner-lromano97.gif" alt="Banner lromano97" title=""/> -->
 
 ### Hi 👋, I´m Lucas Romano
 
