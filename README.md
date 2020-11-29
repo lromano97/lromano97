@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/lromano97/lromano97/main/banner-lromano97.gif" alt="Banner lromano97" title=""/>
+
 ### Hi 👋, I´m Lucas Romano
 
 I work as a Software Engineer pursuing a master degree as Data Scientist 📚. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices, mobile and ETL development 👨‍💻.
