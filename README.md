@@ -2,7 +2,7 @@
 
 ### Hi 👋, I´m Lucas Romano
 
-I work as a Software Engineer pursuing a master degree as Data Scientist 📚. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices, mobile and ETL development 👨‍💻.
+I work as a Software Engineer. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices, frontend (mobile and web) and ETL development 👨‍💻.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lromano97/lromano97/main/typing.gif" />
@@ -10,18 +10,20 @@ I work as a Software Engineer pursuing a master degree as Data Scientist 📚. I
  
 ### About me
 - 🛠 I'm currently working with Node.js, Typescript, Express, MongoDB and React Native
-- 🚀 I'm currently learning about data science and improving my Node.js and Typescript skills
+- 🚀 I'm currently learning about Java and improving my Node.js, Typescript and React.js skills
 - 📫 How to reach me: romano.97lucas@gmail.com
 
 ### Languages and Tools
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux"></code>
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+
 
 <!--
 **lromano97/lromano97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
