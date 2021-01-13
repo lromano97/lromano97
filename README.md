@@ -16,6 +16,7 @@ I work as a Software Engineer. I've graduated as a Information System Engineer ð
 ### Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
