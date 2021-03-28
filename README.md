@@ -2,18 +2,19 @@
 
 ### Hi 👋, I´m Lucas Romano
 
-I work as a Software Engineer. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices, frontend (mobile and web) and ETL development 👨‍💻.
+I work as a Data Engineer. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently working on microservices and ETL development 👨‍💻.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lromano97/lromano97/main/typing.gif" />
 
  
 ### About me
-- 🛠 I'm currently working with Node.js, Typescript, Express, MongoDB and React Native
-- 🚀 I'm currently learning about Java and improving my Node.js, Typescript and React.js skills
+- 🛠 I'm currently working with Go
+- 🚀 I'm currently learning about Java and Go
 - 📫 How to reach me: romano.97lucas@gmail.com
 
 ### Languages and Tools
+![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
