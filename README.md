@@ -9,8 +9,8 @@ I work as a Data Engineer. I've graduated as a Information System Engineer 🏛.
 
  
 ### About me
-- 🛠 I'm currently working with Go
-- 🚀 I'm currently learning about Java and Go
+- 🛠 I'm currently working with Go building data streaming services
+- 🚀 I'm currently learning about data intensive applications design
 - 📫 How to reach me: romano.97lucas@gmail.com
 
 ### Languages and Tools
