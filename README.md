@@ -10,14 +10,14 @@ I work as a Data Engineer. I've graduated as a Information System Engineer 🏛.
  
 ### About me
 - 🛠 I'm currently working with Go building data streaming services
-- 🚀 I'm currently learning about data intensive applications design
+- 🚀 Learning about data intensive applications design and ML
 - 📫 How to reach me: romano.97lucas@gmail.com
 
 ### Languages and Tools
 ![Golang](https://img.shields.io/badge/Golang-black?style=flat-square&logo=go)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=ts-node)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![React.js](https://img.shields.io/badge/React.js-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
