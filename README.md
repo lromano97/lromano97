@@ -2,7 +2,7 @@
 
 ### Hi 👋, I´m Lucas Romano
 
-I work as a Data Engineer. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently developing large scale data services 👨‍💻.
+I work as a Software Engineer. I've graduated as a Information System Engineer 🏛. I love to learn about new technologies that I could use to solve real-life problems. I'm currently developing large scale data services 👨‍💻.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lromano97/lromano97/main/typing.gif" />
