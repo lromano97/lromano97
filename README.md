@@ -4,7 +4,7 @@
 
 I work as a **Software Technical Leader** at **MercadoLibre** 🏢. I graduated as an Information Systems Engineer 🏛. I love learning about new technologies and applying them to solve real-world problems at scale.
 
-<img align="right" height="200" width="275" alt="" src="https://raw.githubusercontent.com/lromano97/lromano97/main/typing.gif" />
+<!-- <img align="right" height="200" width="275" alt="" src="https://raw.githubusercontent.com/lromano97/lromano97/main/typing.gif" /> -->
 
 ### About me
 - 🛠 Currently leading the **GenAI Gateway** — the internal platform that serves all LLM models company-wide at MercadoLibre
